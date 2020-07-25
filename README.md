@@ -8,5 +8,8 @@ I'm Mehdi Aoussiad a Web Developer from Morocco,i focus a lot on front end and d
 - 💬 Ask me about anything related to my field.
 - 📫 How to reach me: https://www.linkedin.com/in/mehdi-aoussiad-0615321b0/
 
+👔 [linkedin][linkedin]
+📺 [youtube][youtube] **|** 
+
 [linkedin]:https://www.linkedin.com/in/mehdi-aoussiad-0615321b0/
 [youtube]:https://www.youtube.com/channel/UCxeFiEFCqLm1s1R9vdMiLuw
