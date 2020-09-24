@@ -1,5 +1,5 @@
 ### Hi there 👋,
-I'm Mehdi Aoussiad a Web Developer from Morocco, Front-End focused.
+I'm Mehdi Aoussiad Front-End Web Developer from Morocco.
 
 
 - 🔭 I’m currently working on Some Projects using Front end thechnologies.
