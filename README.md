@@ -6,7 +6,7 @@ I'm Mehdi Aoussiad, Front-End Web Developer from Morocco. I learn, build, teach,
 - 👯 I’m looking to collaborate on some coding projects.
 - 💬 Ask me about anything related to my field.
 - I build awesome things for the web.
-- I also write articles about Coding and Software Development in general.
+- I also write coding articles on Medium, make sure you check them out.
 
 👔 [Linkedin][linkedin]
 📺 [Youtube][youtube] **|**
