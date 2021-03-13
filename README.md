@@ -8,7 +8,7 @@ I'm Mehdi Aoussiad, Front-End Web Developer from Morocco. I learn, build, teach,
 - I also write technical articles, make sure you check them out.
 
 👔 [Linkedin][linkedin]
-👔 [Articles][Articles]
+📝 [Articles][Articles]
 
 [Articles]: https://medium.com/@mehdiouss315
 [Linkedin]:https://www.linkedin.com/in/mehdi-aoussiad-0615321b0/
