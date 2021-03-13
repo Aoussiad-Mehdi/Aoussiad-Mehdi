@@ -1,5 +1,5 @@
-### Hi there 👋,
-I'm Mehdi Aoussiad, Front-End Web Developer from Morocco. I learn, build, teach, and write about code.
+## Hi there 👋,
+I'm Mehdi Aoussiad, Front-End Web Developer Based in Morocco. I learn, build, teach, and write about code.
 
 
 - I’m always learning.
