@@ -8,7 +8,7 @@ I'm Mehdi Aoussiad, Front-End Web Developer Based in Morocco. I learn, build, te
 - I also write technical articles, make sure you check them out.
 
 
-### Let's make the world a better place!!
+### Let's make the world a better place using code!
 
 👔 [Linkedin][linkedin]
 📝 [Articles][Articles]
