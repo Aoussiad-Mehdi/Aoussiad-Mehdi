@@ -16,7 +16,7 @@ I'm Mehdi Aoussiad, Front-End Web Developer Based in Morocco. I learn, build, te
 [Articles]: https://www.mehdiaoussiad.com/blog
 [Linkedin]:https://www.linkedin.com/in/mehdi-aoussiad-0615321b0/
 
-Also, If you're interested in Squarespace tips and tutorials, you can check out my new Blog. By the way, Squarespace is a great website builder to use if you don't have time and don't want to build a site from scratch.
+Also, If you're interested in Squarespace tips and tutorials, you can check out my new [Blog]: https://www.mehdiaoussiad.com/blog/is-squarespace-good-for-seo  By the way, Squarespace is a great website builder to use if you don't have time and don't want to build a site from scratch.
 
 [Start a Squarespace Travel Blog]: https://www.mehdiaoussiad.com/blog/squarespace-travel-blog
 
